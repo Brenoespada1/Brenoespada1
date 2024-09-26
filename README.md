@@ -1,16 +1,17 @@
-## Hi there 👋
+## Ola galerinha👋🦁
 
-<!--
-**Brenoespada1/Brenoespada1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é breno gutavo 
 
-Here are some ideas to get you started:
+-estou estudando no alura
+estou me desenvolvendo na limgua javaScript
+utilizo esse espaço para minha organização e compartilhamento do meu projetos desenvolvido
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você pode entrar em contato comigo:📧
+
+breno.santos.melo@escola.pr.gov.br
+
+
+![](https://tenor.com/pt-BR/view/dog-wtf-what-the-fuck-huh-what-gif-14455295)
+
+
+
